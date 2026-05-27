@@ -111,7 +111,7 @@ pip install -r requirements.txt
 
 ```env
 MONGO_URL=your_mongodb_connection_string
-DB_NAME=your_database_name
+DB_NAME= test_database
 CORS_ORIGINS=*
 ```
 
@@ -234,8 +234,8 @@ Add your project screenshots here.
 
 ## Prince
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/princebaranwal07
+- LinkedIn: https://linkedin.com/in/princeb01
 - Portfolio: https://emer-portfolio.vercel.app/
 
 ---
